@@ -4,9 +4,9 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import turial.com.dev.ui.model.Pacote;
+import turial.com.dev.model.Pacote;
 
-public class PacodeDAO {
+public class PacoteDAO {
     public List<Pacote> lista() {
         List<Pacote> pacotes = new ArrayList<>(Arrays.asList(
                 new Pacote("São Paulo", "sao_paulo_sp", 2, new BigDecimal(243.99)),

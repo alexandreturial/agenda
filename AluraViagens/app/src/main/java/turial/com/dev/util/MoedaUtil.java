@@ -1,4 +1,4 @@
-package turial.com.dev;
+package turial.com.dev.util;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;

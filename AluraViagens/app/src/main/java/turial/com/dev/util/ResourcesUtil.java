@@ -1,4 +1,4 @@
-package turial.com.dev;
+package turial.com.dev.util;
 
 import android.content.Context;
 import android.content.res.Resources;
